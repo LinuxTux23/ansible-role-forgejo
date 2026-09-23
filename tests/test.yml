@@ -1,0 +1,6 @@
+---
+- name: Apply role to test it
+  hosts: localhost
+  remote_user: root
+  roles:
+    - linuxtux23.forgejo

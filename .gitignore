@@ -1,0 +1,22 @@
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+# JetBrains IDEs
+.idea/
+
+# Vim temporary swap files
+*.swp
+*.swo
+
+# Ansible
+.ansible/
+
+# Python
+.venv/
+__pycache__/

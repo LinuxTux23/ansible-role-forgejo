@@ -1,0 +1,6 @@
+---
+profile: production
+exclude_paths:
+  - .github/
+skip_list:
+  - name[missing]
